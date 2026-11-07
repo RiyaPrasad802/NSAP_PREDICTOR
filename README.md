@@ -40,20 +40,19 @@ The deployed model can be used through its scoring interface, subject to the IBM
 
 ## Repository Structure
 
-```text
-NSAP_Eligibility_Prediction/
+NSAP_PREDICTOR/
 │
 ├── README.md
+│
 ├── notebooks/
 │   ├── NSAP_AutoAI_Experiment.ipynb
-│   └── NSAP_Decision_Tree_Pipeline.ipynb
+│   ├── NSAP_Decision_Tree_Pipeline.ipynb
+│   ├── README.md
+│   └── Screenshot files
 │
-├── presentation/
-│   └── IBM_Project_Presentation.pdf
-│
-└── results/
-    └── evaluation_results.md
-```
+└── presentation/
+    ├── NSAP_Project_Presentation.pdf
+    └── README.md
 
 ## Key Learning Outcomes
 
